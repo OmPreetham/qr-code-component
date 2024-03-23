@@ -1,7 +1,11 @@
 import QRCode from './components/QRCode'
 
 function App() {
-  return <QRCode />
+  return (
+    <main>
+      <QRCode />
+    </main>
+  )
 }
 
 export default App

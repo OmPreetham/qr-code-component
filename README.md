@@ -1,6 +1,6 @@
 # QR Code Component
 
-This project contains a React component for displaying a QR code within a layout. It's built using Vite for the build tool and React for the frontend framework.
+This project contains a React component for displaying a QR code within a layout. It's built using Vite for the build tool and React for the frontend framework. A challenge by Frontend Mentor.
 
 ## Getting Started
 
