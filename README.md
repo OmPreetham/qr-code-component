@@ -2,6 +2,8 @@
 
 This project contains a React component for displaying a QR code within a layout. It's built using Vite for the build tool and React for the frontend framework. A challenge by Frontend Mentor.
 
+![Preview](/public/preview.png)
+
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
